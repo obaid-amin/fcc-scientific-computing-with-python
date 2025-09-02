@@ -1,2 +1,13 @@
-# fcc-scientific-computing-with-python
-This repository contains my projects for the FreeCodeCamp Scientific Computing with Python Certification . The certification focuses on problem-solving with Python, covering topics such as arithmetic formatting, time calculations, budgeting, geometry, and probability.
+# Arithmetic Formatter
+
+This project was completed as part of the FreeCodeCamp Scientific Computing with Python Certification.  
+It formats a list of arithmetic problems vertically and side-by-side, with optional solutions.
+
+## 📝 Features
+- Supports addition and subtraction.
+- Aligns numbers neatly in columns.
+- Optionally displays answers.
+
+## 🚀 Usage
+```bash
+python arithmetic_formatter.py
