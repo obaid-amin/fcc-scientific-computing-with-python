@@ -1,13 +1,7 @@
-# Arithmetic Formatter
+FreeCodeCamp: Scientific Computing with Python Certification 🐍
 
-This project was completed as part of the FreeCodeCamp Scientific Computing with Python Certification.  
-It formats a list of arithmetic problems vertically and side-by-side, with optional solutions.
+This repository contains all projects completed as part of the FreeCodeCamp Scientific Computing with Python Certification
+.
 
-## 📝 Features
-- Supports addition and subtraction.
-- Aligns numbers neatly in columns.
-- Optionally displays answers.
+The certification focuses on solving computational problems using Python, covering topics like formatting arithmetic problems, calculating time, managing budgets, working with geometric shapes, and running probability experiments.
 
-## 🚀 Usage
-```bash
-python arithmetic_formatter.py
